@@ -1,0 +1,1 @@
+Template Engine / View Engine - > responsible for rendering the data from server and display on html.
