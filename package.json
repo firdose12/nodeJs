@@ -1,0 +1,23 @@
+{
+  "name": "learn_node",
+  "version": "1.0.0",
+  "description": "This is My first Node Js Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "express node",
+    "start" : "node src/index.js",
+    "start:dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Firdose",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
